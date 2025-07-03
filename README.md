@@ -64,3 +64,18 @@
  <li>Création de contenu numérique</li>
  </ul>
 </section>
+<section>
+ <h1>Contact</h1>
+ <form>
+ <label>Nom</label>
+ <input type="text" name="nom">
+ <label>Email</label>
+ <input type="email" name="email">
+ <label>Message</label>
+ <textarea name="message"></textarea>
+ <button>Envoyer</button>
+ </form>
+ <p>Adresse : Parakou, Titirou</p>
+ <p>Coordonnées : 01 67 22 41 00 (Whatsapp), 01 44 03 01 09 (Appels)</p>
+ <p>Liens vers les réseaux sociaux : <a href="#">Facebook</a>, <a href="#">Instagram</a></p>
+</section>
