@@ -1,6 +1,4 @@
-# AL-FALAH-MULTI-SERVICE-<!DOCTYPE html>
-<html>
-<head>
+
  <title>AL-FALAH MULTI SERVICES : Votre partenaire pour la réussite</title>
  <meta charset="UTF-8">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
