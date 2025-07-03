@@ -71,7 +71,7 @@
  <input type="text" name="nom">
  <label>Email</label>
  <input type="email" name="sabirousayo@gmail.com">
- <label>Message</label>
+ <sabirousayo@gmail.com>Message</sabirousayo@gmail.com>
  <textarea name="message"></textarea>
  <button>Envoyer</button>
  </form>
