@@ -64,18 +64,31 @@
  <li>Création de contenu numérique</li>
  </ul>
 </section>
-<section>
- <h1>Contact</h1>
+<div>
+ <h2>Contactez-nous</h2>
  <form>
- <label>Nom</label>
+ <label>Nom :</label>
  <input type="text" name="nom">
- <label>Email</label>
- <input type="email" name="sabirousayo@gmail.com">
- <sabirousayo@gmail.com>Message</sabirousayo@gmail.com>
+ <label>Email :</label>
+ <input type="email" name="email">
+ <label>Message :</label>
  <textarea name="message"></textarea>
  <button>Envoyer</button>
  </form>
- <p>Adresse : Parakou, Titirou</p>
- <p>Coordonnées : 01 67 22 41 00 (Whatsapp), 01 44 03 01 09 (Appels)</p>
- <p>Liens vers les réseaux sociaux : <a href="#">Facebook</a>, <a href="#">Instagram</a></p>
-</section>
+ <p><strong>Adresse :</strong> Parakou, Titirou</p>
+ <p><strong>Coordonnées :</strong></p>
+ <ul>
+ <li>01 67 22 41 00 (Whatsapp)</li>
+ <li>01 44 03 01 09 (Appels)</li>
+ </ul>
+ <p><strong>Email :</strong></p>
+ <ul>
+ <li><a href="mailto:sabirousayo@gmail.com">sabirousayo@gmail.com</a></li>
+ <li><a href="mailto:aboufoudaylissa@gmail.com">aboufoudaylissa@gmail.com</a></li>
+ </ul>
+ <p><strong>Réseaux sociaux :</strong></p>
+ <ul>
+ <li><a href="https:                                                                                         
+ <li><a href="https://www.fb.com/l/6lp1kJRRR" target="_blank">Facebook</a></li>
+ </ul>
+</div>
