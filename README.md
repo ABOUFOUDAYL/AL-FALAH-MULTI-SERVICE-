@@ -70,7 +70,7 @@
  <label>Nom</label>
  <input type="text" name="nom">
  <label>Email</label>
- <input type="email" name="email">
+ <input type="email" name="sabirousayo@gmail.com">
  <label>Message</label>
  <textarea name="message"></textarea>
  <button>Envoyer</button>
