@@ -28,3 +28,11 @@
  </footer>
 </body>
 </html>
+<section>
+ <h1>Notre histoire</h1>
+ <p>AL-FALAH MULTI SERVICES a été fondée par SAYO ISSA Sabirou, Directeur Général, avec la vision de créer une entreprise dynamique et innovante qui répond aux besoins de nos clients.</p>
+ <h2>Mission</h2>
+ <p>Notre mission est de fournir des services de haute qualité à nos clients tout en promouvant la croissance et le développement de notre entreprise.</p>
+ <h2>Valeurs</h2>
+ <p>Nous valorisons l'intégrité, la transparence, la qualité et la satisfaction de nos clients.</p>
+</section>
