@@ -53,3 +53,14 @@
  <h2>Services numériques</h2>
  <p>Nous proposons une gamme de services numériques, notamment le développement web, la création de sites e-commerce, le marketing digital et la gestion de réseaux sociaux.</p>
 </section>
+<section>
+ <h1>Formations</h1>
+ <p>Nous proposons des formations pour vous aider à développer vos compétences dans le domaine numérique.</p>
+ <ul>
+ <li>Développement web</li>
+ <li>Création de sites e-commerce</li>
+ <li>Marketing digital</li>
+ <li>Gestion de réseaux sociaux</li>
+ <li>Création de contenu numérique</li>
+ </ul>
+</section>
